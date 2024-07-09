@@ -2,6 +2,6 @@
 
 This is the your first taste of structured C++ OOD project.  Follow the lab manual to navigate around and analyze the project model code.
 
-Student Name: [Your Name Here]
+Student Name: Sungkyun Cho
 
-MacID: [Your MacID Here]
+MacID: chos45
